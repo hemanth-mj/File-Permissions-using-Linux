@@ -1,8 +1,14 @@
 <h1>File permissions in Linux</h1>
 <h2>Project description</h2>
-The company’s Research team are in need to update the file permissions to specific files and sub-directories within the projects directory. The current permissions do not follow the Principle of Least Privilege. Updating the permissions to these files and directories will keep the system secure. To complete this project, I used Linux commands and performed the tasks below:
-Check file and directory details. </br>
+The company’s Research team is in need to update the file permissions to specific files and sub-directories within the projects directory. The current permissions do not follow the Principle of Least Privilege. Updating the permissions to these files and directories will keep the system secure. To complete this project, I used Linux commands and performed the tasks below.
 
+<h3>Languages and Utilities Used</h3>
+- Linux Commands
+
+<h3>Environments Used </h3>
+- Linux on Google's Qwiklabs platform </br>
+
+<h2>Check file and directory details.</h2>
 The below Linux code shows the current permissions to the files and directories (including hidden files and directories) inside the Projects directory:
 
 <img src="https://i.imgur.com/gCADgW6.png" height="80%" width="80%" alt="File and Directory permissions initially"/>
